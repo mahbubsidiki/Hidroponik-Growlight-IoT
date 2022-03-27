@@ -74,9 +74,6 @@ void setup()
   pinMode(lampu3, OUTPUT);
   pinMode(lampu4, OUTPUT);
   pinMode(pompa, OUTPUT);
-  //timer.setInterval(1000L, read_ph);
-  //timer.setInterval(1000L, read_suhu);
-  //timer.setInterval(1000L, read_lux);
   timer.setInterval(1000L, read_sensor);
 }
 
