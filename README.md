@@ -9,9 +9,8 @@ hardware used in this project :
 4. Lux
 5. DS18B10
 6. 5 channel Relay
-7. Pompa Air
+7. Power Supplay 12v 
 8. LCD I2C 16x2
-9. Lampu Growlight
 
 How to use this code :
 
